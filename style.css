@@ -7,7 +7,7 @@ body {
     min-height: 100vh;
     /* Подключаем фоновую картинку */
     background-image: url('Background.jpg');
-    background-size: cover;        /* Растягивает картинку на весь экран */
+    background-size: cover;        /* Растягиваеат картинку на весь экран */
     background-position: center;   /* Центрирует картинку */
     background-repeat: no-repeat;  /* Отключает повторение картинки */
     background-attachment: fixed;  /* Фиксирует фон при прокрутке */
